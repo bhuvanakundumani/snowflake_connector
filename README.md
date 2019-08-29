@@ -10,8 +10,8 @@ pip install --upgrade snowflake-connector-python
 
 Environment Variables:
 
-├── venv
-├── .env
+    ├── venv
+    ├── .env
 
 Create a file .env and store the credentials
 
