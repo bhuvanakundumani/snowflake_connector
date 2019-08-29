@@ -1,4 +1,4 @@
-#!/Users/bhuvanaka/Documents/snowflake_secure/venv1/bin/python
+#!/Users/bhuvanaka/Documents/snowflake_connector/venv1/bin/python
 
 import sys
 import getopt

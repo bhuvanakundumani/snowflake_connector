@@ -1,4 +1,4 @@
-#!/Users/bhuvanaka/Documents/snowflake_secure/venv1/bin/python3.7
+#!/Users/bhuvanaka/Documents/snowflake_connector/venv1/bin/python3.7
 # -*- coding: utf-8 -*-
 import re
 import sys

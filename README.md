@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Install python-dotenv
 
 pip install -U python-dotenv
@@ -25,10 +24,11 @@ SF_PASSWORD   = <'password'>
 
 Create a .gitignore file and add the following lines.
 
-# Environments
-.env
-.venv
-env/
-venv/
+    # Environments
+    .env
+    .venv
+    env/
+    venv/
 
-
+    # Ignore Mac DS_Store files
+    .DS_Store

@@ -46,7 +46,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/bhuvanaka/Documents/snowflake_secure/venv1"
+VIRTUAL_ENV="/Users/bhuvanaka/Documents/snowflake_connector/venv1"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

@@ -28,7 +28,7 @@ def _deactivate(args):
 _deactivate(["nondestructive"])
 aliases["deactivate"] = _deactivate
 
-$VIRTUAL_ENV = r"/Users/bhuvanaka/Documents/snowflake_secure/venv1"
+$VIRTUAL_ENV = r"/Users/bhuvanaka/Documents/snowflake_connector/venv1"
 
 $_OLD_VIRTUAL_PATH = $PATH
 $PATH = $PATH[:]
