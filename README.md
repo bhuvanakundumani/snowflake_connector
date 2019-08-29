@@ -21,7 +21,7 @@ Create a file .env and store the credentials
     SF_PASSWORD   = <'password'>
 
 Create a .gitignore file and add the following lines.
-# Environments
+    # Environments
     .env
     .venv
     env/
@@ -29,8 +29,8 @@ Create a .gitignore file and add the following lines.
     ENV/
     VENV/
 
-# Ignore Mac DS_Store files
+    # Ignore Mac DS_Store files
     .DS_Store
 
-# Ignore vscode files
+    # Ignore vscode files
     .vscode
