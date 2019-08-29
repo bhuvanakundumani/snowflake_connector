@@ -1,12 +1,10 @@
 Install python-dotenv
 
-pip install -U python-dotenv
-
+    pip install -U python-dotenv
 
 Install snowflake connector for python 
 
-pip install --upgrade snowflake-connector-python
-
+    pip install --upgrade snowflake-connector-python
 
 Environment Variables:
 
@@ -23,12 +21,16 @@ Create a file .env and store the credentials
     SF_PASSWORD   = <'password'>
 
 Create a .gitignore file and add the following lines.
-
-    # Environments
+# Environments
     .env
     .venv
     env/
     venv/
+    ENV/
+    VENV/
 
-    # Ignore Mac DS_Store files
+# Ignore Mac DS_Store files
     .DS_Store
+
+# Ignore vscode files
+    .vscode
