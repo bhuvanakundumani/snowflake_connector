@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Install python-dotenv
 
 pip install -U python-dotenv
@@ -29,6 +30,5 @@ Create a .gitignore file and add the following lines.
 .venv
 env/
 venv/
-
 
 

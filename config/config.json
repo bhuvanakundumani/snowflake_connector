@@ -1,0 +1,11 @@
+{ "credentials" :
+              {
+                "account"   : "saama",
+                "user"      : "Sgopal",
+                "warehouse" : "DEMO_WH",
+                "database"  : "AAA_POC",
+                "schema"    : "AAA_POC_SCHEMA",
+                "password"  : "Phoenix123"
+              }
+
+}
