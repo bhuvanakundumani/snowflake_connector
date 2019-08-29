@@ -21,6 +21,7 @@ Create a file .env and store the credentials
     SF_PASSWORD   = <'snoflake_password'>
 
 Create a .gitignore file and add the following lines.
+
     # Environments
     .env
     .venv
