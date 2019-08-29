@@ -1,3 +1,7 @@
-# Ignore files related to credentials
+# Environments
 .env
+.venv
+env/
+venv/
+ENV/
 
