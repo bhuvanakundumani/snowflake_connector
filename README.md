@@ -13,12 +13,12 @@ Environment Variables:
 
 Create a file .env and store the credentials
 
-    SF_ACCOUNT    = <'account_name'>
-    SF_USER       = <'username'>
+    SF_ACCOUNT    = <'snowflake_account_name'>
+    SF_USER       = <'snowflake_username'>
     SF_WAREHOUSE  = <'warehouse_name'>
     SF_DATABASE   = <'database_name'>
     SF_SCHEMA     = <'schema_name'>
-    SF_PASSWORD   = <'password'>
+    SF_PASSWORD   = <'snoflake_password'>
 
 Create a .gitignore file and add the following lines.
     # Environments
@@ -28,6 +28,15 @@ Create a .gitignore file and add the following lines.
     venv/
     ENV/
     VENV/
+    .Python
+    [Bb]in
+    [Ii]nclude
+    [Ll]ib
+    [Ll]ib64
+    [Ll]ocal
+    [Ss]cripts
+    pyvenv.cfg
+    pip-selfcheck.json
 
     # Ignore Mac DS_Store files
     .DS_Store
