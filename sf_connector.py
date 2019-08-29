@@ -20,6 +20,7 @@ connection = snowflake.connector.connect (
 account  = SF_ACCOUNT,
 user     = SF_USER,
 password = SF_PASSWORD,
+warehouse = SF_WAREHOUSE,
 database = SF_DATABASE,
 schema   = SF_SCHEMA
 )
