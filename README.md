@@ -24,7 +24,11 @@ SF_PASSWORD   = <'password'>
 
 Create a .gitignore file and add the following lines.
 
-# Ignore files related to credentials
+# Environments
 .env
+.venv
+env/
+venv/
+
 
 
